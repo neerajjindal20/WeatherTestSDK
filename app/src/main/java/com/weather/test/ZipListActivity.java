@@ -104,8 +104,6 @@ public class ZipListActivity extends Activity implements OnWeatherProcessListene
             case R.id.action_add:
                 showAddZipCodeDialog();
                 break;
-            case R.id.action_delete:
-                break;
             default:
                 break;
         }
